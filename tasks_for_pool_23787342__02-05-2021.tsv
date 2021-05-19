@@ -1,0 +1,11 @@
+INPUT:comment	GOLDEN:quality	HINT:EN
+Loveeeeeeeeeee these	1	Positive sentiment is expressed by word love
+This is so beautiful. I know I'll be thinking of this post whenever I dislike my body. Thank you for posting this :)❤️❤️❤️	1	Positive sentiment is expressed by word beautiful and heart emojjii
+Oh wow! This art is fire 🔥!! Love it!	1	Positive sentiment is expressed by word love and fire emojjii
+This is poetry	0	Neutral sentiiment: no strong emotion expressed
+ahh it’s useless with people like you who make things up out of thin air	-1	Negative sentiment: expressed by phrase 'useless with people like you'
+i didn’t lol but ok. I could apply that to what you said about feminism being man-hating. People will say mean things.	0	Neutral sentiiment: no strong emotion expressed
+She spelt omelette wrong	0	Neutral sentiiment: no strong emotion expressed
+fucking feminists worming their way into everything	-1	Negative sentiment: expressed by phrase 'fucking'
+Because I'm not opposed to listening to every perspective	0	Neutral sentiiment: no strong emotion expressed
+I just scroll, bc anything that says that is not worth my time	-1	Negative sentiment: expressed by phrase 'not worth my time'

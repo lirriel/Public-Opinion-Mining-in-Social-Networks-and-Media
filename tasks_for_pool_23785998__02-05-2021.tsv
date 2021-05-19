@@ -1,0 +1,11 @@
+INPUT:comment	GOLDEN:quality	HINT:EN
+I don’t know, I really enjoy banter. I’d rather have a guy tease me or poke fun at me than have him tell me how pretty my dress looks or whatever. And a lot of the banter I have with my husband or my friends would look like bullying to anyone else, but for us it’s just fun.	1	Positive sentiment. It can be noticed via such words as 'fun', 'enjoy', 'pretty'
+Hello, thank you for your post. Unfortunately we had to remove it because it violates the following rule	0	Neutral sentiment: no strong emotion expressed in the text
+Historically, the idea was invoked either as a joke or to make their serial killer characters scarier. And then the most common depiction of gay men was as side characters to a straight woman's story. And currently men dating men is just straight up not depicted outside of niche media.	0	Neutral sentiment: no strong emotion expressed in the text
+I'm bored of dealing with the most obstinant and idiotic forms of feminist who peddle shit like 1/77 rape victims are men and so on	-1	Negative sentiment. It can be noticed by phrase 'avoid this man'
+He’s not a “sex addict” he’s a misogynist. I would just avoid this man	-1	Negative sentiment. It can be noticed by such words as 'bored', 'idiotic', 'shit'
+You are a member of his family, you have made it clear that his comments make you uncomfortable, and that should be that.	0	Neutral sentiment: no strong emotion expressed in the text
+None of the practices listed there are right! I'm with you mate, let's end the issue it's ploopy	1	Positive sentiment. It can be noticed via such words as 'with you'
+I love this book!	1	Positive sentiment. It can be noticed via such words as 'love'
+It's honestly tiring to see how if I wear a dress and make up some people tell me that I'm too femenine so I'm faking it and if I wear pants and t-shirt I'm too masculine, so I'm faking it	-1	Negative sentiment. It can be noticed by such words as 'tiring'
+I hope you feel better, I can understand how annoying it is	1	Positive sentiment. It can be noticed via such words as 'feel better'
